@@ -1,0 +1,23 @@
+README.md
+  b25954bbe3f23f27 3-7,10-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "19f395732d67a40ec342bd095af13f411263274d",
+  "prompts": {
+    "b25954bbe3f23f27": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d39d9d4-9d04-43c7-abc5-736f0b053702",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Aryan Patel",
+      "messages": [],
+      "total_additions": 248,
+      "total_deletions": 51,
+      "accepted_lines": 248,
+      "overriden_lines": 0
+    }
+  }
+}
