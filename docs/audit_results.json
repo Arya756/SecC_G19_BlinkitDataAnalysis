@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "rows": 13000,
+    "cols_raw": 25,
+    "offer_nan_recoded": 6544,
+    "full_dupes": 0,
+    "total_revenue_inr": 509027130.44,
+    "total_profit_inr": 115152653.07621
+  },
+  "brief": {
+    "counts": {
+      "Planned": 6862,
+      "Mixed": 4178,
+      "Impulse": 1960
+    },
+    "revenue_share_pct": {
+      "Impulse": 12.68,
+      "Mixed": 27.83,
+      "Planned": 59.48
+    },
+    "score_mean": 0.3660153846153847,
+    "score_std": 0.2448014147545442
+  },
+  "andy": {
+    "counts": {
+      "Planned": 5117,
+      "Mixed": 4139,
+      "Impulse": 3744
+    },
+    "revenue_share_pct": {
+      "Impulse": 21.64,
+      "Mixed": 27.14,
+      "Planned": 51.22
+    },
+    "score_mean": 0.4526884615384616,
+    "score_std": 0.2736348513426522
+  },
+  "H1_brief": {
+    "n_impulse": 1960,
+    "n_planned": 6862,
+    "median_imp": 121.5,
+    "median_pln": 122.0,
+    "mean_imp": 164.125,
+    "mean_pln": 162.51792480326435,
+    "U": 6715579.5,
+    "p": 0.9264473934919819,
+    "significant": false
+  },
+  "H1_andy": {
+    "n_impulse": 3744,
+    "n_planned": 5117,
+    "median_imp": 124.0,
+    "median_pln": 120.0,
+    "mean_imp": 164.67975427350427,
+    "mean_pln": 162.0031268321282,
+    "U": 9608564.0,
+    "p": 0.803867661150052,
+    "significant": false
+  },
+  "H2": {
+    "F": 0.664584087455314,
+    "p": 0.41496117461409343,
+    "significant": false,
+    "mean_noOffer": 161.45736552567237,
+    "mean_offer": 163.3556381660471,
+    "margin_noOffer_mean": 22.614807457212713,
+    "margin_offer_mean": 22.691124535315986
+  },
+  "H3_brief": {
+    "H": 6.401792733965228,
+    "p": 0.6991284332960679,
+    "significant": false,
+    "range": [
+      0.3567,
+      0.3802
+    ],
+    "by_city": {
+      "Ahmedabad": 0.3802,
+      "Chennai": 0.3722,
+      "Jaipur": 0.3714,
+      "Delhi": 0.3714,
+      "Lucknow": 0.3652,
+      "Kolkata": 0.3618,
+      "Hyderabad": 0.3612,
+      "Pune": 0.3604,
+      "Mumbai": 0.3602,
+      "Bengaluru": 0.3567
+    }
+  },
+  "H3_andy": {
+    "H": 9.128186327032205,
+    "p": 0.4255266714834411,
+    "significant": false,
+    "range": [
+      0.4419,
+      0.4632
+    ],
+    "by_city": {
+      "Jaipur": 0.4632,
+      "Ahmedabad": 0.4629,
+      "Delhi": 0.4594,
+      "Chennai": 0.4573,
+      "Hyderabad": 0.4537,
+      "Kolkata": 0.4494,
+      "Lucknow": 0.4481,
+      "Bengaluru": 0.4459,
+      "Mumbai": 0.4458,
+      "Pune": 0.4419
+    }
+  },
+  "H4_brief": {
+    "median_small": 110.44,
+    "median_other": 28.836333333333336,
+    "mean_small": 155.8554968253968,
+    "mean_other": 44.02104819557625,
+    "ratio_median": 3.829890531620987,
+    "ratio_mean": 3.5404767313346026,
+    "t": 49.398469221731226,
+    "p": 0.0,
+    "significant": true
+  },
+  "H4_andy": {
+    "median_small": 110.44,
+    "median_other": 28.836333333333336,
+    "mean_small": 155.8554968253968,
+    "mean_other": 44.02104819557625,
+    "ratio_median": 3.829890531620987,
+    "ratio_mean": 3.5404767313346026,
+    "t": 49.398469221731226,
+    "p": 0.0,
+    "significant": true
+  },
+  "H5": {
+    "top20pct_share": 0.6029782897125532,
+    "top10pct_share": 0.40572680633246405,
+    "top50pct_share": 0.8888741522655061,
+    "n_skus": 13000,
+    "gini_est": -0.5798024653304477
+  },
+  "category_revenue": {
+    "Household": 120614537.06,
+    "Personal Care": 99771884.05,
+    "Bakery": 63238053.57,
+    "Grocery": 63189893.31,
+    "Fruits & Vegetables": 47569909.79,
+    "Beverages": 42104649.99,
+    "Snacks": 36972498.44,
+    "Dairy": 35565704.23
+  },
+  "category_share_pct": {
+    "Household": 23.7,
+    "Personal Care": 19.6,
+    "Bakery": 12.42,
+    "Grocery": 12.41,
+    "Fruits & Vegetables": 9.35,
+    "Beverages": 8.27,
+    "Snacks": 7.26,
+    "Dairy": 6.99
+  },
+  "city_table": {
+    "Ahmedabad": {
+      "total": 51879748.75,
+      "impulse_pct_brief": 15.3,
+      "impulse_pct_andy": 24.92
+    },
+    "Bengaluru": {
+      "total": 51682504.55,
+      "impulse_pct_brief": 11.76,
+      "impulse_pct_andy": 22.71
+    },
+    "Chennai": {
+      "total": 46205938.07,
+      "impulse_pct_brief": 14.97,
+      "impulse_pct_andy": 23.43
+    },
+    "Delhi": {
+      "total": 50613081.0,
+      "impulse_pct_brief": 11.89,
+      "impulse_pct_andy": 21.01
+    },
+    "Hyderabad": {
+      "total": 48878036.88,
+      "impulse_pct_brief": 11.11,
+      "impulse_pct_andy": 20.63
+    },
+    "Jaipur": {
+      "total": 50795726.29,
+      "impulse_pct_brief": 13.89,
+      "impulse_pct_andy": 22.41
+    },
+    "Kolkata": {
+      "total": 49915302.76,
+      "impulse_pct_brief": 12.83,
+      "impulse_pct_andy": 21.26
+    },
+    "Lucknow": {
+      "total": 52870665.8,
+      "impulse_pct_brief": 12.63,
+      "impulse_pct_andy": 21.42
+    },
+    "Mumbai": {
+      "total": 52397493.56,
+      "impulse_pct_brief": 12.65,
+      "impulse_pct_andy": 21.05
+    },
+    "Pune": {
+      "total": 53788632.78,
+      "impulse_pct_brief": 10.09,
+      "impulse_pct_andy": 17.8
+    }
+  },
+  "delivery": {
+    "delay_rate_overall": 20.04,
+    "by_city": {
+      "Ahmedabad": 21.29,
+      "Bengaluru": 18.88,
+      "Chennai": 16.63,
+      "Delhi": 15.63,
+      "Hyderabad": 13.46,
+      "Jaipur": 28.49,
+      "Kolkata": 19.76,
+      "Lucknow": 31.14,
+      "Mumbai": 22.68,
+      "Pune": 11.92
+    }
+  },
+  "offer_table": {
+    "Buy1Get1": {
+      "n": 1262.0,
+      "sold_qty_mean": 164.42,
+      "margin_pct_mean": 22.57,
+      "revenue_sum": 49772144.65
+    },
+    "Cashback": {
+      "n": 1895.0,
+      "sold_qty_mean": 164.87,
+      "margin_pct_mean": 22.98,
+      "revenue_sum": 75630481.47
+    },
+    "FlatDiscount": {
+      "n": 2657.0,
+      "sold_qty_mean": 161.86,
+      "margin_pct_mean": 22.54,
+      "revenue_sum": 105428498.54
+    },
+    "FreeDelivery": {
+      "n": 642.0,
+      "sold_qty_mean": 163.0,
+      "margin_pct_mean": 22.68,
+      "revenue_sum": 25449856.53
+    },
+    "No Offer": {
+      "n": 6544.0,
+      "sold_qty_mean": 161.46,
+      "margin_pct_mean": 22.61,
+      "revenue_sum": 252746149.25
+    }
+  }
+}
