@@ -12,7 +12,7 @@
 |---|---|
 | **Project Title** | The Unplanned Basket |
 | **Sector** | Retail / Quick Commerce |
-| **Live Dashboard** | [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/aryan.patel8829/viz/Blinkit_Analysis_G19/Dashboard2) |
+| **Live Dashboard** | [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/aryan.patel8829/viz/Blinkit_Analysis_G19/Dashboard1) |
 | **Team ID** | DVA-C-G19 |
 | **Section** | C |
 | **Faculty Mentor** | _To be filled_ |
