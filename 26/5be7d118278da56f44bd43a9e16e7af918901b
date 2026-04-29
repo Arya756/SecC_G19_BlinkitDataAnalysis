@@ -1,0 +1,14 @@
+README.md
+  h_e67cc62ab13a2f 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "265be7d118278da56f44bd43a9e16e7af918901b",
+  "prompts": {},
+  "humans": {
+    "h_e67cc62ab13a2f": {
+      "author": "Aryan Patel"
+    }
+  }
+}
