@@ -12,6 +12,7 @@
 |---|---|
 | **Project Title** | The Unplanned Basket |
 | **Sector** | Retail / Quick Commerce |
+| **Live Dashboard** | [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/aryan.patel8829/viz/Blinkit_Analysis_G19/Dashboard2) |
 | **Team ID** | DVA-C-G19 |
 | **Section** | C |
 | **Faculty Mentor** | _To be filled_ |
@@ -91,7 +92,7 @@ For full column definitions and engineered features, see [`docs/data_dictionary.
 | Item | Details |
 |---|---|
 | **Dashboard 1 — Anatomy of the Basket** | URL: _Paste Tableau Public link_ |
-| **Dashboard 2 — Geography of Impulse** | URL: _Paste Tableau Public link_ |
+| **Dashboard 2 — Geography of Impulse** | [tableu public dashboard link](https://public.tableau.com/app/profile/aryan.patel8829/viz/Blinkit_Analysis_G19/Dashboard2) |
 | **Dashboard 3 — The Trigger Engine** | URL: _Paste Tableau Public link_ |
 | **Dashboard 4 — The Hidden Bill** | URL: _Paste Tableau Public link_ |
 | **Executive View** | Revenue split (Impulse / Mixed / Planned) by category and city, KPI scorecards |
@@ -227,12 +228,12 @@ python scripts/etl_pipeline.py
 - [x] `docs/data_dictionary.md` is complete
 - [x] `scripts/etl_pipeline.py` mirrors notebook logic end-to-end
 - [ ] `tableau/screenshots/` contains dashboard screenshots
-- [ ] `tableau/dashboard_links.md` contains Tableau Public URLs
+- [x] `tableau/dashboard_links.md` contains Tableau Public URLs
 - [ ] All members have visible commits and pull requests
 
 **Tableau Dashboard**
 
-- [ ] Published on Tableau Public and accessible via public URL
+- [x] Published on Tableau Public and accessible via public URL
 - [ ] At least one interactive filter included
 - [ ] Dashboard directly addresses the business problem
 
