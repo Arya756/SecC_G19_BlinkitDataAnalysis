@@ -257,14 +257,14 @@ python scripts/etl_pipeline.py
 
 | Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
 |---|---|---|---|---|---|---|---|
-| Aryan Patel | Owner | Owner | Owner | Owner | Support | Owner | Support |
-| Ayush Aryan | Support | Support | Support | Support | Owner | Support | Owner |
-| _Member 3_ | | | | | | | |
+| Aryan Patel | Owner/Support | Owner/Support | Owner/Support | Owner/Support | Owner/Support | Owner/Support | Owner/Support |
+| Ayush Aryan | Owner/Support | Owner/Support | Owner/Support | Owner/Support | Owner/Support | Owner/Support | Owner/Support |
+| Pratyush Chouksey | | | | | | Owner/Support | Owner/Support |
 | _Member 4_ | | | | | | | |
 | _Member 5_ | | | | | | | |
 | _Member 6_ | | | | | | | |
 
-**Team Lead:** Aryan Patel
+**Team Lead:** Ayush Aryan
 
 ---
 
