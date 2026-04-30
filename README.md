@@ -22,7 +22,7 @@ The core question is:
 | Garv Verma          | garv.verma2024@nst.rishihood.edu.in         | `github-handle`   |
 | Pratyush Chouksey   | pratyush.chouksey2024@nst.rishihood.edu.in  | `github-handle`   |
 | Puneet Takhar       | puneet.takhar2024@nst.rishihood.edu.in      | `github-handle`   |
-| Tathagat Harsh      | tathagat.harsh2024@nst.rishihood.edu.in     | `github-handle`   |
+| Tathagat Harsh      | tathagat.harsh2024@nst.rishihood.edu.in     | `TathagatHarsh`   |
 
 ---
 
